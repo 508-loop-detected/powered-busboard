@@ -1,0 +1,13 @@
+ID,Name,Designator,Footprint,Quantity,Source
+1,7805,U25,TO-220-ALT,1,
+2,EuroRack 16 PWR Header,"U2,U6,U12,U5,U1, U11,U3,U4,U7, U8,U9,U10",IDC-BOX-2X08X2.54MM_STRAIGHT,12,https://www.taydaelectronics.com/connectors-sockets/box-header-connectors/16-pin-box-header-connector-2-54mm-right-angle.html
+3,NSD15-12D12,PS1,NSD1512D12,1,https://www.mouser.com/ProductDetail/MEAN-WELL/NSD15-12D12?qs=l0g2inPJSHMwYcjB58jp6A%3D%3D
+4,Ferrite Bead,R30,Ferrite Bead,1,
+5,2.2k,"R1,R3",7MM_RESISTOR,2,
+6,1k,R2,7MM_RESISTOR,1,
+7,LED-TH-3mm_R,"LED1,LED2,LED3",LED-TH_BD3.0_RED,3,any red or yellow 3mm LED
+8,1N5819,D1,DO-41,1,
+9,100uF,"C1,C10,C2,C6,C8,C9",CAP-D6.3×F2.5,6,
+10,680uF,C15,CAP-D8.0×F3.5,1,
+11,47uF,"C3,C4,C5,C7",CAP-D6.3×F2.5,4,
+12,2.1MMJACKTHM,U24,PJ-102A,1,https://www.taydaelectronics.com/hardware/dc-power/dc-power-jack-2-1mm-barrel-type-pcb-mount.html
